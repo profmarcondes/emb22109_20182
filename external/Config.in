@@ -1,0 +1,2 @@
+#menu "EMB22109 Packages"
+source "$BR2_EXTERNAL_EMB22109_PATH/package/qtmqtt/Config.in"
