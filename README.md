@@ -5,4 +5,4 @@ Clone it with --recurse-submodules to checkout buildroot source automatically.
 
 Eg:
 
-git clone --recurse-submodules https://github.com/profmarcondes/emb22109_20181.git
+git clone --recurse-submodules https://github.com/profmarcondes/emb22109_20182.git
